@@ -1,5 +1,3 @@
-# KTM: Knowledge-guided Transformer for Joint Theme and Emotion Classification of Chinese Classical Poetry
-
 ### Setup
 + Python >= 3.6
 + torch >= 0.4.1
